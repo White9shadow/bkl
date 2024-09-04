@@ -1,5 +1,7 @@
 Welcome to the official repository of Magisk Modules! It’s like a treasure trove of system modifications and customizations.
 [Magisk Module](http://magiskmodule.gitlab.io)
+
+  <li><a href="https://pcsx2.gitlab.io">PCsx2</a></li>
  <li><a href="https://pcgame.gitlab.io">PC Game Emulator</a></li>
         <li><a href="https://retroarchemu.gitlab.io">RetroArch Emulator</a></li>
         <li><a href="https://AetherSX2EmuPS2.gitlab.io">AetherSX2 PS2 Emulator</a></li>
